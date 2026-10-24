@@ -222,4 +222,4 @@ GeoGebra is available as a **full free version** with all features and updates i
 Start your journey in mathematics with GeoGebra today! Download now and explore endless possibilities.
 
 ---
-**Last updated:** 2026-10-24 06:37:20 UTC
+**Last updated:** 2026-10-24 11:42:10 UTC
